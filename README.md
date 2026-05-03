@@ -14,12 +14,8 @@ Formatting and display options
 
 The mod works in both singleplayer worlds and multiplayer servers, helping players keep better track of their gameplay time.
 
-🐛 Bug Reports
-
 If you encounter any issues or bugs, please report them here:
 (insert GitHub Issues link)
-
-📖 Documentation / Wiki
 
 More information and configuration details can be found here:
 (insert Wiki link)
